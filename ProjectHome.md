@@ -1,0 +1,1 @@
+An easy way to get nice looking graphs in [Django](http://www.djangoproject.com) projects using [CairoPlot](https://launchpad.net/cairoplot) library.
